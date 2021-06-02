@@ -1,2 +1,2 @@
-# LearnVue-start-from-scratch-
+# LearnVue-start-from-scratch
 create a simple vue start from scratch
